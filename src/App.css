@@ -1,0 +1,36 @@
+/* src/App.css */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+.app {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid black;
+  justify-content: space-between;
+  
+
+
+
+}
+
+h4{
+  margin-bottom: 10px;
+  margin-left: 20px;
+  width: 50%;
+
+}
+
+.notes-container {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: center;  */ 
+  border: 1px solid black;
+  border-radius: 5px;
+
+}

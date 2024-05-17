@@ -1,0 +1,18 @@
+.main{
+    /* max-width: 50px; */
+    /* display: flex; */
+    width: 400px;
+    /* flex-wrap: wrap; */
+}
+.canvas{
+    font-size: large;
+    font-weight:500px ;
+}
+.ListNotes{
+    border: 1px solid black;
+    margin-top: 10px;
+    width: max-content;
+    background-color: white;
+    border-radius: 5px;
+
+}
